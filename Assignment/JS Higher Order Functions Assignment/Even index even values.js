@@ -4,6 +4,6 @@ function evenIndexAndEvenValue(arr) {
 
 
 const input = [2, 4, 5, 3, 6, 8];
-const output = evenIndexAndEvenValue(input);
+
 
 
