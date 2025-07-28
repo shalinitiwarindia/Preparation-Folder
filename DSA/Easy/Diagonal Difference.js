@@ -9,9 +9,6 @@ function diagonalDifference(arr) {
     }
 
     return Math.abs(primarySum - secondarySum);
-}
-
-// Example usage:
 
  
 
