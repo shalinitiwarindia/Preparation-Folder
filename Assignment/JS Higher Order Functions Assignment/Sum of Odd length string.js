@@ -11,4 +11,3 @@ function sumOfOddLengthStrings(arr) {
 const input = ["A", "Good", "Problem"];
 const output = sumOfOddLengthStrings(input);
 
-console.log(output); // 8
