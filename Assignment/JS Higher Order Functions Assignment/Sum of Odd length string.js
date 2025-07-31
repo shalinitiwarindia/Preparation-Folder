@@ -8,6 +8,4 @@ function sumOfOddLengthStrings(arr) {
 }
 
 // Sample Input
-const input = ["A", "Good", "Problem"];
-const output = sumOfOddLengthStrings(input);
 
