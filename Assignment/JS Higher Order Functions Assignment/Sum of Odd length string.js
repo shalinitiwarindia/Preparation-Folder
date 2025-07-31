@@ -7,5 +7,4 @@ function sumOfOddLengthStrings(arr) {
   }, 0);
 }
 
-// Sample Input
 
